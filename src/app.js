@@ -1,7 +1,10 @@
 import './styles/app.css'
-import Header from './header/header.js'
-import LeftMenu from './left-menu/left-menu.js'
-import Main from './main/main.js'
+import './styles/header.css'
+import './styles/left-menu.css'
+import './styles/main.css'
+import Header from './header/header.jsx'
+import LeftMenu from './left-menu/left-menu.jsx'
+import Main from './main/main.jsx'
 
 function App() {
   return (
